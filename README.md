@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Rashi Garg! 👋
 
-<!--
-**rashigarg04/rashigarg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently pursuing B.Tech in Computer Science Engineering from IILM University.
+- 🌱 I'm passionate about learning new technologies and exploring innovative solutions.
+- 👯 I'm open to collaboration on projects related to software development and web technologies.
+- 💬 Ask me about anything related to programming, technology, or just say hi!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rashi-garg-84b002294).
 
-Here are some ideas to get you started:
+### 🚀 Skills and Technologies:
+- **Languages:** C, C++, Python, Java
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Database:** SQL, MongoDB
+- **Tools:** Git, VS Code, IntelliJ IDEA, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😄 Pronouns: She/Her
+
+### ⚡ Fun fact: I enjoy exploring new cuisines and trying out different recipes in my free time!
+
+### 📈 GitHub Stats:
+![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashigarg04&show_icons=true&theme=radical)
+
