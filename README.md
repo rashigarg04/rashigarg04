@@ -9,7 +9,6 @@
 ### 🚀 Skills and Technologies:
 - **Languages:** C, C++, Python, Java
 - **Web Development:** HTML, CSS, JavaScript, React
-- **Database:** SQL, MongoDB
 - **Tools:** Git, VS Code, IntelliJ IDEA, Jupyter Notebook
 
 ### 😄 Pronouns: She/Her
