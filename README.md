@@ -91,7 +91,7 @@ Here’s an enhanced README with every tech stack included and a snake game feat
 
 ## 🎮 Play a Snake Game
 
-![Snake Game](https://github.com/rashigarg04/rashigarg04/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/rashigarg04/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
