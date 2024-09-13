@@ -1,4 +1,4 @@
-Here’s an enhanced README with every tech stack included and a snake game feature:
+
 
 ---
 
