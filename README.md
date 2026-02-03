@@ -30,11 +30,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashigarg04&show_icons=true&count_private=true)
-
 
 ## 📌 What I’m Looking For
 - 🎯 Software Development Internship  
